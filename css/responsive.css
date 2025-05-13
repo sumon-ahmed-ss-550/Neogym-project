@@ -1,0 +1,10 @@
+@media only screen and (max-width:1470px){
+    .carousel-inner p{
+        padding:0 15%;
+    }
+}
+@media only screen and (max-width:1040px){
+    .carousel-inner p{
+        padding:0 10%;
+    }
+}
